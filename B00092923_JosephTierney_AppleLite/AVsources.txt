@@ -1,0 +1,80 @@
+***************SPRITES***************
+apple (my-sketches, unchanged):
+http://gamefroot.com/wp-content/files/2012/05/my-sketches.jpg 
+
+Broken Bulb (altered top corner to make it appear “broken”):
+http://www.homedepot.com/catalog/productImages/1000/c8/c8ec7d1e-358b-4f2c-a58d-39d4cd7e69c3_1000.jpg 
+
+darkBG:
+original creation
+
+darkBG2:
+original creation
+
+env_bg:
+https://www.assetstore.unity3d.com/en/#!/content/49520
+
+GameOverEdison (tim, uchanged):
+https://s-media-cache-ak0.pinimg.com/originals/96/10/76/961076764c7b28d27101bb7b4a62e65f.png
+
+LightBulb (uchanged):
+http://www.homedepot.com/catalog/productImages/1000/c8/c8ec7d1e-358b-4f2c-a58d-39d4cd7e69c3_1000.jpg 
+
+LightBulbOn (altered colour):
+http://www.homedepot.com/catalog/productImages/1000/c8/c8ec7d1e-358b-4f2c-a58d-39d4cd7e69c3_1000.jpg 
+
+mazewall1 (middlewallupdated):
+https://drunkenzebrastudio.files.wordpress.com/2011/12/middlewallupdated.png
+
+mazewall2 (middlewallupdated):
+https://drunkenzebrastudio.files.wordpress.com/2011/12/middlewallupdated.png
+
+middlewallupdated (uchanged):
+https://drunkenzebrastudio.files.wordpress.com/2011/12/middlewallupdated.png 
+
+newton-sheet (removed the last 3 sprites, rest remains uchanged):
+http://gamefroot.com/wp-content/files/2012/05/newton-sheet.png
+
+profefssor_walk_cycle_no_hat (uchanged):
+https://opengameart.org/sites/default/files/lpc-art/professor_walk_cycle_no_hat.png
+
+terrain-ground:
+https://www.assetstore.unity3d.com/en/#!/content/22006
+
+top_hat_sheet_female (uchanged):
+https://opengameart.org/sites/default/files/top_hat_sheet_female.png
+
+tree (TREE CARTOON):
+http://clipart-library.com/clipart/6Tr5kd5jc.htm
+***********************************
+
+***************FONTS***************
+crash-a-like:
+http://www.dafont.com/crash-a-like.font
+***********************************
+
+***************SOUNDS***************
+Crunch (Apple_Crunch_16):
+https://freesound.org/people/Koops/sounds/20279/
+
+Game Over (Game Over Sound Effect):
+https://www.youtube.com/watch?v=QY9FOvvHQhU
+
+Lights On (Big switch sound effect):
+https://www.youtube.com/watch?v=FssFxhKppz4
+
+Lights Out (Fantasy Ambient Music Pack - Forests and Villages 02.wav):
+https://www.assetstore.unity3d.com/en/#!/content/49863
+
+Raining Apples (Fantasy Ambient Music Pack - Calm Atmosphere 02.wav):
+https://www.assetstore.unity3d.com/en/#!/content/49863
+
+Ready to Play (Game Start):
+https://freesound.org/people/plasterbrain/sounds/243020/
+
+Welcome (Fantasy Ambient Music Pack - Menu_Titles 01.wav):
+https://www.assetstore.unity3d.com/en/#!/content/49863
+
+You Win (Fantasy Ambient Music Pack - Calm Atmosphere 01.wav):
+https://www.assetstore.unity3d.com/en/#!/content/49863
+***********************************

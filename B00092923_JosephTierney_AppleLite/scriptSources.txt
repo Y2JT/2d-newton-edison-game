@@ -1,0 +1,19 @@
+***************SCRIPTS***************
+CameraFollow Script:
+Taken from Gravity Guy labs, remains unchanged.
+
+GameManager Script:
+Taken from Gravity Guy labs, remains unchanged.
+
+CountdownTimer Script:
+Taken from Gravity Guy labs, remains unchanged.
+
+Spawner Script:
+https://www.youtube.com/watch?v=oFzT17M1Xxs&t=1217s
+Used this video for reference, took the code for yield return and Instantiate in the IEnumerator class.
+
+TommyController Script:
+http://answers.unity3d.com/questions/945341/spawning-a-prefab-at-another-objects-location.html
+In the OnTriggerEnter2D class, I used: Instantiate(remains,transform.position,transform.rotation);
+from this code in order for this to work - I simply replaced "remains" with "LightBulbOn".
+***************************************
