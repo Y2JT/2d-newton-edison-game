@@ -7,43 +7,49 @@ Direct3D:
     VRAM:     2111 MB
     Driver:   22.20.16.4749
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\User\Documents\College\ITB\Y2\S2\InteractiveMultimedia\Apple Lite_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\User\Documents\College\ITB\Y2\S2\InteractiveMultimedia\Apple Lite_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\User\Documents\College\ITB\Y2\S2\InteractiveMultimedia\Apple Lite_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\User\Documents\College\ITB\Y2\S2\InteractiveMultimedia\Apple Lite_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\User\Documents\College\ITB\Y2\S2\InteractiveMultimedia\Apple Lite_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\User\Documents\College\ITB\Y2\S2\InteractiveMultimedia\Apple Lite_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\User\Documents\College\ITB\Y2\S2\InteractiveMultimedia\Apple Lite_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\User\Documents\College\ITB\Y2\S2\InteractiveMultimedia\Apple Lite_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\User\Documents\College\ITB\Y2\S2\InteractiveMultimedia\Apple Lite_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading C:\Users\User\Documents\College\ITB\Y2\S2\InteractiveMultimedia\Apple Lite_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.039 seconds
-Platform assembly: C:\Users\User\Documents\College\ITB\Y2\S2\InteractiveMultimedia\Apple Lite_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\User\Documents\College\ITB\Y2\S2\InteractiveMultimedia\Apple Lite_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\User\Documents\2d-newton-edison-game\Apple Lite_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Documents\2d-newton-edison-game\Apple Lite_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\2d-newton-edison-game\Apple Lite_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\User\Documents\2d-newton-edison-game\Apple Lite_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\2d-newton-edison-game\Apple Lite_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\User\Documents\2d-newton-edison-game\Apple Lite_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\2d-newton-edison-game\Apple Lite_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\User\Documents\2d-newton-edison-game\Apple Lite_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\2d-newton-edison-game\Apple Lite_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\User\Documents\2d-newton-edison-game\Apple Lite_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+Platform assembly: C:\Users\User\Documents\2d-newton-edison-game\Apple Lite_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\User\Documents\2d-newton-edison-game\Apple Lite_Data\Managed\System.dll (this message is harmless)
 desktop: 1360x768 60Hz; virtual: 1360x768 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.383555 ms
+UnloadTime: 1.335110 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 6.521333 ms
+UnloadTime: 10.231995 ms
 
 Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 383.
-Total: 5.746222 ms (FindLiveObjects: 0.034666 ms CreateObjectMapping: 0.031111 ms MarkObjects: 0.283555 ms  DeleteObjects: 5.395555 ms)
+Total: 10.224884 ms (FindLiveObjects: 0.045333 ms CreateObjectMapping: 0.043999 ms MarkObjects: 0.416444 ms  DeleteObjects: 9.717329 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.664444 ms
+UnloadTime: 0.846666 ms
 
 Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 332.
-Total: 4.751111 ms (FindLiveObjects: 0.030222 ms CreateObjectMapping: 0.026222 ms MarkObjects: 0.212888 ms  DeleteObjects: 4.480888 ms)
+Total: 5.518219 ms (FindLiveObjects: 0.036888 ms CreateObjectMapping: 0.031999 ms MarkObjects: 0.281333 ms  DeleteObjects: 5.166219 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.864888 ms
+UnloadTime: 0.747999 ms
 
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 614.
-Total: 3.316888 ms (FindLiveObjects: 0.052888 ms CreateObjectMapping: 0.031111 ms MarkObjects: 0.317777 ms  DeleteObjects: 2.913777 ms)
+Total: 5.522664 ms (FindLiveObjects: 0.074222 ms CreateObjectMapping: 0.052444 ms MarkObjects: 0.475110 ms  DeleteObjects: 4.919553 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.914221 ms
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 300.
+Total: 6.959108 ms (FindLiveObjects: 0.056888 ms CreateObjectMapping: 0.036888 ms MarkObjects: 0.277777 ms  DeleteObjects: 6.586219 ms)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1cf4 -> priority: 1 
-  Thread -> id: 2288 -> priority: 1 
+  Thread -> id: 16a8 -> priority: 1 
+  Thread -> id: 2c9c -> priority: 1 
