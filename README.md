@@ -2,6 +2,10 @@
 
 A 2D game with 2 levels, based on Isaac Newton's discovery of gravity and Thomas Edison's invention of the light bulb.
 
+## Download
+
+https://gamejolt.com/games/apple-lite/564652
+
 ## Level 1
 
 The player must collect 10 apples within the time limit in order to advance to level 2.
